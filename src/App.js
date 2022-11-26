@@ -12,7 +12,7 @@ const App = () => {
 
   console.log("currentAccount: ", currentAccount)
 
-  const contractAddress = "0x92fcf629400db7C61b8F1bFEEdfCb4486e452ccf"
+  const contractAddress = "0xf77B42AE317444B9451dD29C8A49c1cbB7D60DC0"
   const contractABI = abi.abi
 
   const getAllWaves = async () => {
